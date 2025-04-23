@@ -32,3 +32,7 @@ Data for this project has been sourced from:
 
 The final analysis will clarify whether the modern shift to long-range shooting has truly compromised shooting efficiency, or if players and teams have simply become better at adapting.
 
+### Other resources
+
+- [Trello (Kanban Board)](https://trello.com/b/N9p2efYk/nba-vs-euroleague-defense)
+
