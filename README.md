@@ -1,19 +1,18 @@
-# 3-Point shooting evolution: NBA vs EuroLeague
+# 3-Point shooting efficency evolution: NBA vs EuroLeague
 
 ### Introduction
 
-Over the last decade, both the NBA and EuroLeague have witnessed a sharp rise in 3-point attempts (3PA). While it might seem intuitive that more long-distance shots would decrease overall shooting accuracy (FG%), the data may tell a different story. This project investigates whether this trend has negatively affected field goal percentages, or if players and teams have adapted efficiently.
+In the past decade, both the NBA and EuroLeague have seen a notable increase in 3-point shooting. While it’s often assumed that shooting more 3s could lead to a drop in accuracy, the data may tell a different story. This project investigates whether teams have become not only more reliant on 3-pointers, but also more efficient, challenging assumptions about volume vs. efficiency in modern basketball.
 
 ### Objective
 
-- Analyze the year-over-year growth in 3PA for both leagues
-- Examine whether this shift has negatively affected FG%
-- Compare trends between leagues to identify similarities or key differences
+- Year-over-year trends in average 3PA and 3P%
+- Correlation between increased volume and accuracy
+- League-wide shooting evolution in both competitions
 
 ### Hypothesis
 
-1. Over the last 10 years, the rise in 3-point attempts (3PA) has not lowered field goal percentage (FG%) in the NBA or EuroLeague, in fact, FG% has improved year-over-year.
-
+Over the last 10 years, the rise in average 3-point attempts (av3PA) has not lowered 3-point percentage (3P%) in the NBA or EuroLeague, in fact, 3P% has improved year-over-year.
 
 ### Data Sources
 
@@ -26,7 +25,7 @@ Data for this project has been sourced from the following:
 1. Collect 10 years of NBA and EuroLeague team-level 3PA and FG% data
 2. Clean and standardize datasets
 3. Normalize seasons and align date ranges
-4. Analyze YoY trends in 3PA and FG%
+4. Analyze YoY trends in av3PA and FG%
 5. Visualize correlations and test the hypothesis
 
 ### Conclusion
