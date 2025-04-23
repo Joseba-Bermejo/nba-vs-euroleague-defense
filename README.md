@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In the past decade, both the NBA and EuroLeague have seen a notable increase in 3-point shooting. While it’s often assumed that shooting more 3s could lead to a drop in accuracy, the data may tell a different story. This project investigates whether teams have become not only more reliant on 3-pointers, but also more efficient, challenging assumptions about volume vs. efficiency in modern basketball.
+Over the past decade, both the NBA and EuroLeague have experienced a significant rise in 3-point attempts. While it’s commonly believed that increased volume might reduce efficiency due to the shot’s difficulty, this project explores whether teams have not only relied more on 3-pointers but also sustained, or even improved, their accuracy. The goal is to challenge traditional assumptions about the trade-off between volume and efficiency in modern basketball.
 
 ### Objective
 
@@ -12,7 +12,7 @@ In the past decade, both the NBA and EuroLeague have seen a notable increase in 
 
 ### Hypothesis
 
-Over the last 10 years, the rise in average 3-point attempts (av3PA) has not lowered 3-point percentage (3P%) in the NBA or EuroLeague, in fact, 3P% has improved year-over-year.
+Despite the rise in average 3-point attempts (av3PA) over the past decade, 3-point shooting accuracy (3P%) in both the NBA and EuroLeague has remained stable, or even improved, year over year.
 
 ### Data Sources
 
