@@ -16,16 +16,16 @@ Over the last 10 years, the rise in average 3-point attempts (av3PA) has not low
 
 ### Data Sources
 
-Data for this project has been sourced from the following:
-- NBA Stats API
-- EuroLeague API
+Data for this project has been sourced from:
+- [NBA Stats API](https://pypi.org/project/nba_api)
+- [EuroLeague API](https://pypi.org/project/euroleague-api)
 
 ### Methodology
 
-1. Collect 10 years of NBA and EuroLeague team-level 3PA and FG% data
+1. Collect 10 years of NBA and EuroLeague team-level av3PA and 3P% data
 2. Clean and standardize datasets
-3. Normalize seasons and align date ranges
-4. Analyze YoY trends in av3PA and FG%
+3. Normalize seasons and align date ranges for comparison
+4. Analyze YoY trends in av3PA and 3P%
 5. Visualize correlations and test the hypothesis
 
 ### Conclusion
