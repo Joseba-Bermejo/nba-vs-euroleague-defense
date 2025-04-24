@@ -4,15 +4,17 @@
 
 Over the past decade, both the NBA and EuroLeague have experienced a significant rise in 3-point attempts. While it’s commonly believed that increased volume might reduce efficiency due to the shot’s difficulty, this project explores whether teams have not only relied more on 3-pointers but also sustained, or even improved, their accuracy. The goal is to challenge traditional assumptions about the trade-off between volume and efficiency in modern basketball.
 
-### Objective
+### Questions I want to answer
 
-- Year-over-year trends in average 3PA and 3P%
-- Correlation between increased volume and accuracy
-- League-wide shooting evolution in both competitions
+- What are the YoY trends in average 3PA and 3P%?
+- How has the proportion of 3-point attempts (3PA) relative to total field goal attempts (FGA) evolved YoY in both leagues?
+- What is the correlation between increased volume and accuracy?
+- How has 3-point shooting evolved league-wide in the NBA and EuroLeague over the last decade?
 
 ### Hypothesis
 
-Despite the rise in average 3-point attempts (av3PA) over the past decade, 3-point shooting accuracy (3P%) in both the NBA and EuroLeague has remained stable, or even improved, year over year.
+1. Despite the rise in average 3-point attempts per game over the past decade, 3-point shooting accuracy in both the NBA and EuroLeague has remained stable, or even improved, year over year.
+2. The NBA has seen a greater increase in the share of 3-point attempts relative to total shots than the EuroLeague over the past decade.
 
 ### Data Sources
 
@@ -22,11 +24,11 @@ Data for this project has been sourced from:
 
 ### Methodology
 
-1. Collect 10 years of NBA and EuroLeague team-level av3PA and 3P% data
+1. Collect 10 years of NBA and EuroLeague team-level 3PA, 3P%, FGA, and 3PA ratio.
 2. Clean and standardize datasets
 3. Normalize seasons and align date ranges for comparison
-4. Analyze YoY trends in av3PA and 3P%
-5. Visualize correlations and test the hypothesis
+4. Analyze trends
+5. Visualize correlations, answer the questions and test the hypothesis
 
 ### Conclusion
 
