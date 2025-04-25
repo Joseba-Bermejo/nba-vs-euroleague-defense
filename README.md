@@ -4,17 +4,22 @@
 
 Over the past decade, both the NBA and EuroLeague have experienced a significant rise in 3-point attempts. While it’s commonly believed that increased volume might reduce efficiency due to the shot’s difficulty, this project explores whether teams have not only relied more on 3-pointers but also sustained, or even improved, their accuracy. The goal is to challenge traditional assumptions about the trade-off between volume and efficiency in modern basketball.
 
+### Glossary
+
+- 3PA (3-Point Attempts): The average number of 3-point shots a player/team attempts per game.
+- 3P% (3-Point Percentage): The success rate of 3-point shots, calculated as the percentage of made 3-pointers out of total attempts.
+- FGA (Field Goal Attempts): The total number of shots a player/team attempts per game, including both 2-point and 3-point shots.
+- 3PA ratio: The percentage of total field goal attempts that are 3-point shots, calculated as (3PA ÷ FGA) × 100.
+
 ### Questions I want to answer
 
+- How has the 3PA ratio evolved YoY in both leagues?
 - What are the YoY trends in average 3PA and 3P%?
-- How has the proportion of 3-point attempts (3PA) relative to total field goal attempts (FGA) evolved YoY in both leagues?
-- What is the correlation between increased volume and accuracy?
-- How has 3-point shooting evolved league-wide in the NBA and EuroLeague over the last decade?
 
 ### Hypothesis
 
-1. Despite the rise in average 3-point attempts per game over the past decade, 3-point shooting accuracy in both the NBA and EuroLeague has remained stable, or even improved, year over year.
-2. The NBA has seen a greater increase in the share of 3-point attempts relative to total shots than the EuroLeague over the past decade.
+1. The NBA has seen a greater increase in the 3P ratio than the EuroLeague over the past decade.
+2. A higher amount of 3PA doesn't lead to lower shooting accuracy in the NBA or EuroLeague.
 
 ### Data Sources
 
