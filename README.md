@@ -16,32 +16,21 @@ Over the past decade, both the NBA and EuroLeague have seen a significant rise i
 - FG% (Field Goal Percentage): The overall shooting efficiency, calculated as the percentage of all field goals made (2PM + 3PM) out of total field goal attempts (2PA + 3PA).
 - 3PA ratio: The percentage of total field goal attempts that are 3-point shots, calculated as (3PA ÷ FGA) × 100.
 
-
-EXTRA???
-- av_att (Average Attendance per game): The average number of spectators attending a team’s games, calculated across all home games in a season.
-
-
 #### Key metrics for my analysis
 
-- 3PA, 3PA ratio, FG%, av_att(????) 
+- 3PA, 3PA ratio, FG%.
 
 
 ### Questions I want to answer
 
 - What's the trend of 3PA per season in the last 10 years?
-- How has the 3PA ratio evolved YoY?
+- How has the 3PA ratio evolved YoY in both leagues?
 - Assuming an increase in 3PA ratio, how does that impact shooting efficiency overall (FG%)?
-
-EXTRA???
-- Is fan attendance correlated to shooting efficiency (FG% % 3P%)?
 
 ### Hypothesis
 
-1. The NBA has seen a greater increase in the 3P ratio than the EuroLeague over the past decade.
-2. A higher 3P ratio doesn't correlate to lower shooting efficiency in the NBA or EuroLeague.
-
-EXTRA???
-3. Lower fan attendance correlates with higher 3P% in both leagues. 
+1. The NBA has seen a greater increase in the 3PA ratio than the EuroLeague over the past decade.
+2. A higher 3PA ratio doesn't correlate to lower shooting efficiency in the NBA or EuroLeague.
 
 ### Data Sources
 
@@ -61,11 +50,9 @@ Data for this project has been sourced from:
 
 The final analysis challenges the assumption that increased 3-point volume comes at the cost of efficiency. Instead, it suggests that both leagues (particularly the NBA) have adapted to the modern game by improving accuracy alongside volume. 
 
-
-EXTRA???
-External factors like fan attendance may also influence shooting accuracy, potentially playing a role in player performance.
-
 ### Other resources
 
 - [Trello (Kanban Board)](https://trello.com/b/N9p2efYk/nba-vs-euroleague-defense)
+- [Visualizations G-Sheet](https://docs.google.com/spreadsheets/d/1cTktLIg_FSRoOjIIciU5MrxEJ1mOyX0oeR2IvhNfUgM/edit)
+- [Presentation Slides](https://docs.google.com/presentation/d/1eIiYDLv2m5j2wnUbISQF_i6USvnNt7Gqxzgm4yg24f8/edit)
 
