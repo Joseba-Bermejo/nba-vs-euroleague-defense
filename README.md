@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Over the past decade, both the NBA and EuroLeague have experienced a significant rise in 3-point attempts. While it’s commonly believed that increased volume might reduce efficiency due to the shot’s difficulty, this project explores whether teams have not only relied more on 3-pointers but also sustained, or even improved, their accuracy. The goal is to challenge traditional assumptions about the trade-off between volume and efficiency in modern basketball.
+Over the past decade, both the NBA and EuroLeague have seen a significant rise in the proportion of 3-point attempts relative to total shots. While it’s often assumed that greater reliance on 3-pointers might reduce overall shooting efficiency due to their difficulty, this project explores whether teams have managed to maintain (or even improve) their overall shooting accuracy despite this shift. The goal is to challenge traditional views on the trade-off between shot selection and scoring effectiveness in modern basketball.
 
 ### Glossary
 
@@ -15,25 +15,32 @@ Over the past decade, both the NBA and EuroLeague have experienced a significant
 - FGA (Field Goal Attempts): The total number of shots a player/team attempts per game, including both 2-point and 3-point shots.
 - FG% (Field Goal Percentage): The overall shooting efficiency, calculated as the percentage of all field goals made (2PM + 3PM) out of total field goal attempts (2PA + 3PA).
 - 3PA ratio: The percentage of total field goal attempts that are 3-point shots, calculated as (3PA ÷ FGA) × 100.
+
+
+EXTRA???
 - av_att (Average Attendance per game): The average number of spectators attending a team’s games, calculated across all home games in a season.
 
 
 #### Key metrics for my analysis
 
-- 3PA, 3P%, 3PA ratio, FG%, av_att. 
+- 3PA, 3PA ratio, FG%, av_att(????) 
 
 
 ### Questions I want to answer
 
 - What's the trend of 3PA per season in the last 10 years?
 - How has the 3PA ratio evolved YoY?
-- Assuming an increase in 3PA ratio, how does that impact 3P% and shooting efficiency overall (FG%)?
+- Assuming an increase in 3PA ratio, how does that impact shooting efficiency overall (FG%)?
+
+EXTRA???
 - Is fan attendance correlated to shooting efficiency (FG% % 3P%)?
 
 ### Hypothesis
 
 1. The NBA has seen a greater increase in the 3P ratio than the EuroLeague over the past decade.
-2. A higher amount of 3PA doesn't correlate to lower 3P% or lower shooting efficiency in the NBA or EuroLeague.
+2. A higher 3P ratio doesn't correlate to lower shooting efficiency in the NBA or EuroLeague.
+
+EXTRA???
 3. Lower fan attendance correlates with higher 3P% in both leagues. 
 
 ### Data Sources
@@ -52,7 +59,11 @@ Data for this project has been sourced from:
 
 ### Conclusion
 
-The final analysis challenges the assumption that increased 3-point volume comes at the cost of efficiency. Instead, it suggests that both leagues (particularly the NBA) have adapted to the modern game by improving accuracy alongside volume. External factors like fan attendance may also influence shooting accuracy, potentially playing a role in player performance.
+The final analysis challenges the assumption that increased 3-point volume comes at the cost of efficiency. Instead, it suggests that both leagues (particularly the NBA) have adapted to the modern game by improving accuracy alongside volume. 
+
+
+EXTRA???
+External factors like fan attendance may also influence shooting accuracy, potentially playing a role in player performance.
 
 ### Other resources
 
